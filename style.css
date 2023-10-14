@@ -1,0 +1,33 @@
+
+/* Inline CSS for email compatibility */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #04523a;
+    margin: 0;
+    padding: 20px;
+    /*background-image: url('bg.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    opacity: 90%;
+    */
+}
+
+table {
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 10px;
+    background-color: #888282;
+    border-collapse: collapse;
+    border-radius: 15px;
+}
+th, td {
+    padding: 20px;
+    text-align: left;
+}
+th {
+    background-color: #01240e;
+    color: #fff;
+    border-radius: 15px 0 ;
+}
+
